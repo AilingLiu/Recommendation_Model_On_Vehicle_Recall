@@ -24,4 +24,4 @@ You do not need to upload data manually as the data will be downloaded automatic
 After running the project, you have an organized repository created automatically. In IMAGES folder, you will find the figures created during analysis stage. In MODEL folder, you will find the trained model used for future prediction.
 
 ## Documentation
-[](Vehicle_Recall_Recommendation Model_Report.pdf)
+[Project Report](Vehicle_Recall_Recommendation Model_Report.pdf)

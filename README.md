@@ -7,10 +7,10 @@ To run the Jupyter notebooks and python scripts, you will need a standard instal
 
 Additional libraries needed:
 
-statsmodels==0.10.2
-category_encoders==2.2.2
-scikit_learn==0.22.2.post1
-xgboost==0.90
+* statsmodels==0.10.2
+* category_encoders==2.2.2
+* scikit_learn==0.22.2.post1
+* xgboost==0.90
 
 You can install these libraries using pip install -r requirements.txt available in the same repository.
 

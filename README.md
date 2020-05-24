@@ -3,7 +3,7 @@
 Take-home-test as part of interview process.
 
 ## Installation
-To run the Jupyter notebooks and python scripts, you will need a standard installtion of Anaconda with Python 3.6.x
+To run the Jupyter notebooks and python scripts, you will need a standard installation of Anaconda with Python 3.6.x
 
 Additional libraries needed:
 
@@ -15,9 +15,9 @@ Additional libraries needed:
 You can install these libraries using `pip install -r requirements.txt` available in the same repository.
 
 ## How to Run?
-You can clone the project repository from github and run it on your local drive. Alternatively, you can click on the `open in colab` icon and run on google colab directly.
+You can clone the project repository from github and run it on your local drive. Alternatively, you can click on the `open in colab` icon on top of the notebook `Recommendation_Model_On_Vehicle_Recall.ipynb` and run on google colab directly .
 
-Once you have installed all the requirements, you run the notebook `Recommendation_Model_On_Vehicle_Recall.ipynb` directly.
+Once you have installed all the requirements, you can run the notebook.
 
 You do not need to upload data manually as the data will be downloaded automatically from github.
 

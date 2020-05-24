@@ -1,4 +1,4 @@
-# Recommendation_Model_On_Vehicle_Recall
+# Recommendation Model On Vehicle Recall
 
 Take-home-test as part of interview process.
 
@@ -24,4 +24,4 @@ You do not need to upload data manually as the data will be downloaded automatic
 After running the project, you have an organized repository created automatically. In IMAGES folder, you will find the figures created during analysis stage. In MODEL folder, you will find the trained model used for future prediction.
 
 ## Documentation
-![](.Vehicle_Recall_Recommendation Model_Report.pdf)
+[](Vehicle_Recall_Recommendation Model_Report.pdf)

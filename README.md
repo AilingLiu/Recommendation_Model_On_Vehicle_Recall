@@ -12,7 +12,7 @@ Additional libraries needed:
 * scikit_learn==0.22.2.post1
 * xgboost==0.90
 
-You can install these libraries using pip install -r requirements.txt available in the same repository.
+You can install these libraries using `pip install -r requirements.txt` available in the same repository.
 
 ## How to Run?
 You can clone the project from github and run it on your local drive. Alternatively, you can click on the `open in colab` icon and run on google colab directly.

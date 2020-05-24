@@ -15,11 +15,11 @@ Additional libraries needed:
 You can install these libraries using `pip install -r requirements.txt` available in the same repository.
 
 ## How to Run?
-You can clone the project from github and run it on your local drive. Alternatively, you can click on the `open in colab` icon and run on google colab directly.
+You can clone the project repository from github and run it on your local drive. Alternatively, you can click on the `open in colab` icon and run on google colab directly.
 
-Once you have installed all the requirements, you run the notebook directly.
+Once you have installed all the requirements, you run the notebook `Recommendation_Model_On_Vehicle_Recall.ipynb` directly.
 
-You do not need to upload data manually as the data will be downloaded automatically from my google drive.
+You do not need to upload data manually as the data will be downloaded automatically from github.
 
 After running the project, you have an organized repository created automatically. In IMAGES folder, you will find the figures created during analysis stage. In MODEL folder, you will find the trained model used for future prediction.
 
